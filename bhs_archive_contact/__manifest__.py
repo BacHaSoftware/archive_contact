@@ -13,7 +13,7 @@
     'depends': ['contacts', 'hr_recruitment'],
     'data': [],
     'demo': [],
-    'images': ['static/description/banner.gif'],
+    'images': ['static/description/banner.png'],
     'installable': True,
     'application': True,
     'auto_install': False,
