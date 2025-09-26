@@ -44,7 +44,7 @@
 
 <div align="left">
   <a href="https://github.com/BacHaSoftware/archive_contact">
-    <img src="/bhs_archive_contact/static/description/banner.gif" alt="Setting">
+    <img src="/bhs_archive_contact/static/description/banner.png" alt="Setting">
   </a>
 </div>
 
