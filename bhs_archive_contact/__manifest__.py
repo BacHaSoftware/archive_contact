@@ -3,7 +3,7 @@
 
 {
     'name': 'Archive Contact',
-    'version': '1.0',
+    'version': '19.0.1.0',
     'author': 'Bac Ha Software',
     'category': 'Extra Tools',
     'sequence': -10,
