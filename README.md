@@ -8,7 +8,7 @@
     <img src="/bhs_archive_contact/static/description/icon.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Archive Contact</h3>
+  <h3 align="center">Auto Contact Archiver</h3>
 
   <p align="center">
     A product of Bac Ha Software allows to archived contact when related processes have been completed.
@@ -50,7 +50,7 @@
 
 #### Key Features:
 
-🌟 <code>Archive contact when completing the process with related records (user, applicant, parent contact).</code>
+🌟 <code>Auto Contact Archiver when completing the process with related records (user, applicant, parent contact).</code>
 
 <div align="left">
     <div align="center"><code>Refuse applicant</code></div>
@@ -106,12 +106,12 @@ Install module  <code>bhs_archive_contact</code>
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Module allows to archive contact when related processes have been completed.
+Module allows to Auto Contact Archiver when related processes have been completed.
 
 
 #### Featured Highlight:
 
-🌟 <code>Simple Setup</code>: After installing module, archive contact feature is added automatically without any further configuration.
+🌟 <code>Simple Setup</code>: After installing module, Auto Contact Archiver feature is added automatically without any further configuration.
 
 🌟 <code>Reduce Process</code>: Contacts that are no longer needed are automatically archived, saving time and simplifying process.
 
