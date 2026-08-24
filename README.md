@@ -8,7 +8,7 @@
     <img src="/bhs_archive_contact/static/description/icon.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Archive Contact</h3>
+  <h3 align="center">Auto Contact Archiver</h3>
 
   <p align="center">
     A product of Bac Ha Software allows to archived contact when related processes have been completed.
